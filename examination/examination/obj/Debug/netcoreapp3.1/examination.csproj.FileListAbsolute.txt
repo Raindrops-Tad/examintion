@@ -1,0 +1,4 @@
+D:\vs_work\examination\examination\obj\Debug\netcoreapp3.1\examination.AssemblyInfoInputs.cache
+D:\vs_work\examination\examination\obj\Debug\netcoreapp3.1\examination.AssemblyInfo.cs
+D:\vs_work\examination\examination\obj\Debug\netcoreapp3.1\examination.csproj.CoreCompileInputs.cache
+D:\vs_work\examination\examination\bin\Debug\netcoreapp3.1\examination.exe
